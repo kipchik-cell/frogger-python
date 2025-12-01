@@ -73,4 +73,4 @@ frogger-game/
   `npx eslint js/ --ext .js
     `npx prettier --check .
 
-https://kipchik-cell.github.io/frogger-python/
+[https://kipchik-cell.github.io/frogger-python/](https://kipchik-cell.github.io/frogger-python/)
